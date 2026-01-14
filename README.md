@@ -37,3 +37,8 @@ Open to freelance & remote projects
 
 A simple Python-based health tracker app to monitor daily health metrics and plan a healthy lifestyle.
 
+# Health Tracker
+
+[Live Demo / Download & Run Locally](https://github.com/gungun210/health-tracker)
+
+
